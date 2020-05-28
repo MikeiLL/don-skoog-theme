@@ -1,0 +1,1 @@
+# Child theme for Personalblogily theme, Don Skoog Wordpress Site.
