@@ -12,6 +12,7 @@
 <article id="post-<?php the_ID(); ?>" <?php post_class('posts-entry fbox blogposts-list'); ?>>
 	
 	<?php if ( has_post_thumbnail() ) : ?>
+	
 		<div class="featured-thumbnail">
 			<a href="<?php the_permalink() ?>" rel="bookmark"><?php the_post_thumbnail('personalblogily-slider'); ?></a>
 		</div>
